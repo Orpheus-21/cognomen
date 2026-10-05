@@ -1,14 +1,14 @@
 # cognomen
 
-`cognomen` is a Claude Code skill. It gives a name to the project that you discuss in a session. Each name comes from Warhammer 40,000.
+`cognomen` is a Claude Code skill. It gives a name to the project that you discuss in a session. Each name comes from Warhammer 40K.
 
 ## What it does
 
-The skill reads the current session. It finds what the project does, who uses it, and the main technical idea. Then it searches the Warhammer 40,000 lore for a name that matches this meaning.
+The skill reads the current session. It finds what the project does, who uses it, and the main technical idea. Then it searches the Warhammer 40K lore for a name that matches this meaning.
 
 The skill follows these rules:
 
-- Each name comes from Warhammer 40,000.
+- Each name comes from Warhammer 40K.
 - Each name has a real link to the project.
 - Each name is obscure. The skill does not use famous names.
 - The skill does not invent lore. If a fact is uncertain, the skill says so.
