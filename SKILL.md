@@ -1,6 +1,6 @@
 ---
 name: cognomen
-description: Name the project the user is discussing in this session, with an obscure name from Warhammer 40,000 that fits the project. Run only when the user types /name-project.
+description: Name the project the user is discussing in this session, with an obscure name from Warhammer 40,000 that fits the project. Run only when the user types /cognomen.
 disable-model-invocation: true
 ---
 
