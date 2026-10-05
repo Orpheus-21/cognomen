@@ -1,6 +1,6 @@
-# name-project
+# cognomen
 
-`name-project` is a Claude Code skill. It gives a name to the project that you discuss in a session. Each name comes from Warhammer 40,000.
+`cognomen` is a Claude Code skill. It gives a name to the project that you discuss in a session. Each name comes from Warhammer 40,000.
 
 ## What it does
 
@@ -25,7 +25,7 @@ The skill gives one recommended name and up to three backups. For each name, it 
 2. Run this command:
 
 ```
-git clone https://github.com/Orpheus-21/name-project ~/.claude/skills/name-project
+git clone https://github.com/Orpheus-21/cognomen ~/.claude/skills/cognomen
 ```
 
 3. Start a new Claude Code session. Claude Code loads skills when a session starts.
@@ -36,7 +36,7 @@ git clone https://github.com/Orpheus-21/name-project ~/.claude/skills/name-proje
 2. Type this command:
 
 ```
-/name-project
+/cognomen
 ```
 
 Claude does not start this skill by itself. The frontmatter setting `disable-model-invocation: true` blocks automatic use. Only your command starts the skill.
