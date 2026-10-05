@@ -1,16 +1,16 @@
 ---
 name: cognomen
-description: Name the project the user is discussing in this session, with an obscure name from Warhammer 40,000 that fits the project. Run only when the user types /cognomen.
+description: Name the project the user is discussing in this session, with an obscure name from Warhammer 40K that fits the project. Run only when the user types /cognomen.
 disable-model-invocation: true
 ---
 
 # Name the project
 
-The user invokes this skill in a session where they discuss an idea. Read the session. Give a project name from Warhammer 40,000 that has a real link to the idea.
+The user invokes this skill in a session where they discuss an idea. Read the session. Give a project name from Warhammer 40K that has a real link to the idea.
 
 ## Hard rules
 
-1. Every name must come from Warhammer 40,000 (lore, factions, characters, worlds, ships, wars, artifacts, weapons, ranks, High Gothic or other in-universe terms). No other source.
+1. Every name must come from Warhammer 40K (lore, factions, characters, worlds, ships, wars, artifacts, weapons, ranks, High Gothic or other in-universe terms). No other source.
 2. Every name must have a meaning that fits the project. A name that only sounds good is not valid.
 3. Choose obscure names. Do not use famous names. Examples of names to avoid: Terra, Cadia, Macragge, Horus, Guilliman, Sanguinius, Abaddon, Fenris, Mars, Necron, Ultramarines, Warp, Imperium, Aquila, Primarch, Sigillite, Omnissiah, Cogitator, Machine Spirit. Also avoid any name that a casual fan knows. If you doubt that a name is obscure, drop it.
 4. Use only names that you are sure exist in the lore. Never invent a 40K name. If you are not sure about a fact, say so, or choose a different name.
